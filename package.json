@@ -1,0 +1,10 @@
+{
+  "name": "syncDirs",
+  "version": "1.0.0",
+  "main": "syncDirs.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "promise": "^7.1.1"
+  }
+}
